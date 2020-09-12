@@ -14,5 +14,9 @@ def engage
    
 
   date = generate_star_date
+<<<<<<< HEAD
   p state_log(date)
+=======
+ # binding.pry
+>>>>>>> 28aa84c34434f8dca87aefa364cbbc65b829e987
 end
